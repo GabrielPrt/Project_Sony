@@ -1,20 +1,20 @@
 <h1>🎮 Project Sony </h1>
 
 <p align="center">
-<img src="./assets/Tela-web.png"  alt="tela-web">
+<img src="./img/Tela_web.png"  alt="tela-web">
+<img src="./img/Tela_phone.png"  alt="tela-phone">
 </p>
 
-With a simple and minimalist layout, an interface was created for the user to login to a yoga website.
-
+With a simple, minimalist, and fully responsive layout, an interface was created for the user to access a website about the price of a Playstation 5 controller, and an animation effect was added to the controller.
 ##
 ### 🚀 Technologies
  
 This project was developed with the following technologies:
 
-- <a href="https://en.wikipedia.org/wiki/HTML">Html</a>
-- <a href="https://en.wikipedia.org/wiki/CSS">Css</a>
+- <a href="https://en.wikipedia.org/wiki/HTML">HTML</a>
+- <a href="https://en.wikipedia.org/wiki/CSS">CSS</a>
 - <a href="https://en.wikipedia.org/wiki/JavaScript">Javascript</a>
-- <a href="https://code.visualstudio.com/">Vs code</a>
+- <a href="https://code.visualstudio.com/">VS Code</a>
 
 ##
 ### 📝 License
@@ -24,4 +24,3 @@ This project is open to the public, to access and test.
 If you want to test <a href="https://gabrielprt.github.io/Project_Sony/">click here</a> 🎯
 
 Created by 😁 Gabriel Prates 👋 <a href="https://github.com/GabrielPrt">Get in touch!</a>
- 
